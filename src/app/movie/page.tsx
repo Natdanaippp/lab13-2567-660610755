@@ -11,7 +11,7 @@ export default function MoviePage() {
             key={movie.id}
             id={movie.id}
             title={movie.title}
-            detail={movie.detail}
+            //detail={movie.detail}
             rating={movie.rating}
             number={i + 1}
           />
